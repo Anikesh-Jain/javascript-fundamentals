@@ -1,0 +1,9 @@
+.original {
+    color: rgb(255, 0, 0);
+    background-color: aqua;
+    font-style: italic;
+    font-size: 100px;
+}
+.changed {
+    background-color: brown;
+}

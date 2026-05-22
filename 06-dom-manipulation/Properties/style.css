@@ -1,0 +1,17 @@
+#heading {
+    color:black;
+}
+.headings-of-class{
+    color:blue;
+}
+p{
+    color:blueviolet;
+    text-decoration: solid;
+}
+body {
+    background-color: aqua;
+}
+#myID{
+    background-color: blueviolet;
+    color: aqua;
+}
